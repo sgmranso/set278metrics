@@ -1,0 +1,15 @@
+###### Requirements without Version Specifiers ######
+numpy
+SciPy
+pandas
+matplotlib
+ruamel.yaml
+pymap3d
+utm
+ordered-set
+setuptools
+rtree
+
+###### Requirements with Version Specifiers ######
+python >= 3.6
+stonesoup >= 0.1b6
